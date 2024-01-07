@@ -11,8 +11,8 @@
 
 **Problem Sets**:
 
-- Deep Thought
-- Home Federal Savings Bank
-- File Extensions
-- Math Interpreter
-- Meal Time
+- [Deep Thought](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-1/problem-sets/deep-thought.py)
+- [Home Federal Savings Bank](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-1/problem-sets/bank.py)
+- [File Extensions](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-1/problem-sets/file-extensions.py)
+- [Math Interpreter](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-1/problem-sets/math-interpreter.py)
+- [Meal Time](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-1/problem-sets/meal-time.py)
