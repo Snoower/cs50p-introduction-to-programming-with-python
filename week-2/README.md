@@ -14,8 +14,8 @@
 
 **Problem Sets**:
 
-- camelCase
-- Coke Machine
-- Just setting up twttr
-- Vanity Plates
-- Nutrition Facts
+- [camelCase]()
+- [Coke Machine]()
+- [Just setting up twttr]()
+- [Vanity Plates]()
+- [Nutrition Facts]()
