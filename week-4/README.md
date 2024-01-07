@@ -30,4 +30,4 @@
 - Little Professor
 - Bitcoin Price Index
 
-**in progress**
+*in progress*
