@@ -20,8 +20,8 @@
 
 **Problem Sets**:
 
-- Indoor Voice
-- Playback Speed
-- Making Faces
-- Einstein
-- Tip Calculator
+- [Indoor Voice](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-0/problem-sets/indoor-voice.py)
+- [Playback Speed](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-0/problem-sets/playback-speed.py)
+- [Making Faces](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-0/problem-sets/making-faces.py)
+- [Einstein](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-0/problem-sets/einstein.py)
+- [Tip Calculator](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/blob/main/week-0/problem-sets/tip-calculator.py)
