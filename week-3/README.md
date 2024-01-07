@@ -12,7 +12,7 @@
 
 **Problem Sets**:
 
-- Fuel Gauge
-- Felipe's Taqueria
-- Grocery List
-- Outdated
+- [Fuel Gauge]()
+- [Felipe's Taqueria]()
+- [Grocery List]()
+- [Outdated]()
