@@ -13,3 +13,5 @@ Source: https://cs50.harvard.edu/python/2022/
 [Week 4](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/tree/main/week-4) Libraries
 
 [Week 5](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/tree/main/week-5) Unit Tests
+
+[Week 6](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/tree/main/week-6) File I/O
