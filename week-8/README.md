@@ -33,7 +33,7 @@
 
 **Problem Sets**:
 
-- [Seasons of Love]()
+- [Seasons of Love](https://github.com/Snoower/cs50p-introduction-to-programming-with-python/tree/main/week-8/problem-sets/seasons)
 - [Cookie Jar]()
 - [CS50 Shirtificate]()
 
