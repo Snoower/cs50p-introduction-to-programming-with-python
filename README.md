@@ -1,3 +1,4 @@
+![image](https://courses.edx.org/asset-v1:HarvardX+CS50P+Python+type@thumbnail+block@course_image-png-375x200.jpg)
 # Harvard University's CS50P: Introduction to Programming with Python
 
 Source: https://cs50.harvard.edu/python/2022/
