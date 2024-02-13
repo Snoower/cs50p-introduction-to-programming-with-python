@@ -4,7 +4,7 @@
   ### Video Demo: https://www.youtube.com/watch?v=FI6Gicgn72w
   
   ### Description:
-  This program offers three tools: language translator, definition lookup, and language identifier. The language translator allows you to translate English word or words to a languagee of your choice. The definition lookup allows you to look up the definition of an English 
+  This program offers three tools: language translator, definition lookup, and language identifier. The language translator allows you to translate English word or words to a language of your choice. The definition lookup allows you to look up the definition of an English 
   word or words. The language identifier allows you to input a word or words, whether it be in the native language or romanized in English, and identify what the native language is. However, the native language will produce a more accurate result compared to the English 
   romanization.
 
